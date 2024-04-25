@@ -4,15 +4,10 @@ Welcome to our Top Down Space Shooter project! This game is a thrilling adventur
 
 #### Features:
 - **Intense Gameplay**: Engage in fast-paced battles against swarms of enemy ships.
-- **Customizable Ships**: Upgrade and personalize your spacecraft with a variety of weapons and enhancements.
-- **Dynamic Environments**: Navigate through asteroid fields, nebulae, and other hazards.
-- **Epic Boss Fights**: Test your skills against formidable bosses that will push you to your limits.
-- **High Score Leaderboard**: Compete with friends and players worldwide for the top spot on the leaderboard.
 
 #### How to Play:
-1. **Controls**: Use the arrow keys or WASD to move your ship. Press the spacebar to shoot.
-2. **Objective**: Survive as long as possible, destroying enemy ships and bosses along the way.
-3. **Upgrades**: Collect power-ups dropped by defeated enemies to enhance your ship's abilities.
+1. **Controls**: Use the arrow keys or WASD to move your ship. Press click left mouse button to shoot.
+2. **Objective**: Survive as long as possible, destroying enemy ships.
 
 #### Installation:
 1. Clone the repository:
@@ -21,6 +16,9 @@ Welcome to our Top Down Space Shooter project! This game is a thrilling adventur
    ```
 2. Open the project in your preferred IDE.
 3. Run the game and start playing!
+
+#### Download Game:
+- [Download Game](https://drive.google.com/file/d/1H9QIgctYmQv7ZrFwV94QtO1RDwmnSs9u/view?usp=sharing)
 
 #### Contributing:
 We welcome contributions from developers of all skill levels. If you'd like to contribute to the project, feel free to fork the repository and submit a pull request with your changes.
@@ -38,3 +36,4 @@ This project is licensed under the [License Name] License. See the [LICENSE](LIC
 This game is a work in progress and may contain bugs. Play at your own risk!
 
 #### Have Fun and Happy Shooting! 🔫✨
+
